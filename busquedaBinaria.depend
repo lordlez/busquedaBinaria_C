@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647461007 source:d:\c\busquedabinaria\funciones.c
+	"header.h"
+
+1647460813 d:\c\busquedabinaria\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1647460809 source:d:\c\busquedabinaria\main.c
+	"header.h"
+
